@@ -3,6 +3,8 @@
 ----------------------------------
 MUDI is a python package developed for integration of multichannel data for single cells such as single cell Hi-C, single cell RNA-seq, single cell ATAC-seq, single cell ChIP-seq, single cell DNA methylation and so on.
 
+### Citation:
+Please cite
 
 ### Usage:
 
