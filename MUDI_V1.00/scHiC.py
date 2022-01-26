@@ -23,7 +23,7 @@ class scHiC(HiC):
         self.binBed.reset_index(drop = True, inplace = True)
         self.deg = deg
         
-    def getbinbed(self, bedPath = 'A001_1000000_abs.bed'):
+    def getBinBed(self, bedPath = 'A001_1000000_abs.bed'):
         '''
         self.binBed: list of genome loci for bins.
         '''
