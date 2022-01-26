@@ -3,7 +3,6 @@ from Genome import *
 from TAD import *
 from scRNAseq import *
 
-
 class scHiC(HiC):
     def __init__(self, genome=Genome(), deg=scRNAseq()):
         '''
@@ -90,7 +89,7 @@ class scHiC(HiC):
             print("Reading " + runData + "......")
             csvMat = pd.read_csv(runData, header=None, sep="\t")
             csvMat.columns = ["bin1", "bin2", "binvalue"]
-            csvMat['twobin'] = csvMat.bin1 * 10000+ csvMat.bin2
+            csvMat['twoBin'] = csvMat.bin1 * 10000+ csvMat.bin2
             setList.append(set(csvMat.twoBin))
         commonSet = setList[0]			###get the commonset of all cells to commonset
         for i in range(1,len(setList)):
