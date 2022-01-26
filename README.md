@@ -30,10 +30,10 @@ from scChIPseq import *
 
 from scRNAseq import *
 
-###TADs
+###get TADs
 
 from TAD import *
 
-#class scHiC
+###Create an instance of class scHiC
 
 singleCell = scHiC()
