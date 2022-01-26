@@ -9,10 +9,11 @@ The first version focuses on the integration of single cell Hi-C and single cell
 Usuage:
 
 ###Input genome
+
 from Genome import *
 
-
 ###for batch cells
+
 from HiC import *
 
 from ATACseq import *
@@ -22,6 +23,7 @@ from ChIPseq import *
 from RNAseq import *
 
 ###for single cells
+
 from scHiC import *
 
 from scATACseq import *
@@ -31,7 +33,9 @@ from scChIPseq import *
 from scRNAseq import *
 
 ###TADs
+
 from TAD import *
 
 #class scHiC
+
 singleCell = scHiC()
