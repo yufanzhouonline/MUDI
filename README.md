@@ -13,11 +13,11 @@ Thank you.
 
 ### Usage:
 
-### Import library
+### 1. Import package
 
 from scHiC import *
 
 
-### Create an instance of class scHiC
+### 2. Create an instance of class scHiC
 
 singleCell = scHiC()
