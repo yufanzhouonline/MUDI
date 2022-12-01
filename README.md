@@ -13,34 +13,11 @@ Thank you.
 
 ### Usage:
 
-###Input genome
-
-from Genome import *
-
-###for batch cells
-
-from HiC import *
-
-from ATACseq import *
-
-from ChIPseq import *
-
-from RNAseq import *
-
-###for single cells
+### Import library
 
 from scHiC import *
 
-from scATACseq import *
 
-from scChIPseq import *
-
-from scRNAseq import *
-
-###get TADs
-
-from TAD import *
-
-###Create an instance of class scHiC
+### Create an instance of class scHiC
 
 singleCell = scHiC()
