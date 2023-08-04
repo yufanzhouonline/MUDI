@@ -13,9 +13,9 @@ Thank you.
 
 ### Usage:
 
-### 1. Import package
+Please refer:
 
-from scHiC import *
+https://github.com/yufanzhouonline/MUDI/blob/master/tutorial.py)https://github.com/yufanzhouonline/MUDI/blob/master/tutorial.py
 
 
 ### 2. Create an instance of class scHiC
