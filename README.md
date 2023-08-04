@@ -13,8 +13,23 @@ Thank you.
 
 ### Input:
 
-First setup the configure file: config.json
+1. config.json: setup the configure file
 
+2. refseq.bed: reference genome bed file
+
+3. cell_1000000_abs.bed: bin bed files of genome, four columns: chrosome, bin start, bin end, bin number
+
+4. sample.txt: files of contact pairs of invididual cells of scHiC, include three columns: cell id, sample type or cell type, path stored contact pairs
+
+5. cluster_degs.txt: files of DEGs of scRNAseq clusters, include p_val, avg_log2FC, pct.1, pct.2, p_val_adj, cluster, gene
+
+6. cluster_number.txt: cluster number of scRNA-seq, include cluster id and cell number of each cluster
+
+7. var_gene.rnk: Top 2000 variable genes of scRNA-seq
+
+### Output:
+
+pdcluster.txt: 
 
 ### Usage:
 
