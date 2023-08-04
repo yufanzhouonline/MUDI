@@ -1,0 +1,20 @@
+{
+    "output_dir": "./data/output",
+    "temp_dir": "./data/temp",
+    "refseq_path": "./data/hg19/refseq.bed",
+    "cell_path":"./data/sample/sample.txt",
+    "bed_path": "./data/sample/cell_1000000_abs.bed",
+    "cluster_path": "./data/output/pdcluster.txt",
+    "label_path": "./data/sample/sample.txt",
+    "g1s_path": "./data/signaling/g1s.txt",
+    "g2m_path": "./data/signaling/g2m.txt",
+    "cellcycle_path": "./data/signaling/cellcycle.txt",
+    "housekeeping_path": "./data/signaling/housekeeping.txt",
+    "degs_path": "./data/sample/cluster_degs.txt",
+    "vargene_path": "./data/sample/var_gene.rnk",
+    "cluster_number_path": "./data/sample/cluster_number.txt",
+    "sc_tad_path": "/data/insulation",
+    "batch1_tad_path": "/data/insulation/mcf7/",
+    "batch2_tad_path": "/data/insulation/mcf7m1/",
+    "batch3_tad_path": "/data/insulation/mcf7tr/"
+}
