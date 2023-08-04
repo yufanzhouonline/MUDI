@@ -11,6 +11,11 @@ MUDI: Multichannel Data Integration for single cells. (Yufan Zhou. 2023) Github.
 
 Thank you.
 
+### Input:
+
+First setup the configure file: config.json
+
+
 ### Usage:
 
 Please refer:
@@ -18,6 +23,3 @@ Please refer:
 https://github.com/yufanzhouonline/MUDI/blob/master/tutorial.py
 
 
-### 2. Create an instance of class scHiC
-
-singleCell = scHiC()
