@@ -13,6 +13,14 @@ MUDI: Multiomic Data Integration for single cells. (Yufan Zhou. 2023) Github. ht
 
 Thank you.
 
+### Installation Requirements:
+
+Python: 3.7.16 or higher
+Numpy: 1.21.6 or higher
+Pandas: 1.2.3 or higher
+Matplotlib: 3.5.3 or higher
+Scikit-learn: 1.0.2 or higher
+
 ### Input:
 
 1. config.json: setup the configure file
