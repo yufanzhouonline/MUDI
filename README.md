@@ -25,6 +25,10 @@ Matplotlib: 3.5.3 or higher
 
 Scikit-learn: 1.0.2 or higher
 
+### Installation
+
+Directly download these package to your local and run as API. Please follow Usage section for the detail.
+
 ### Input:
 
 1. config.json: setup the configure file
