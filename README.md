@@ -35,7 +35,7 @@ pdcluster.txt: output of clusters of scHi-C data and eigenvectors, columns inclu
 
 ### Usage:
 
-Please refer:
+Please refer to tutorial:
 
 https://github.com/yufanzhouonline/MUDI/blob/master/tutorial.py
 
