@@ -45,6 +45,10 @@ Directly download these package to your local and run as API. Please follow Usag
 
 7. var_gene.rnk: Top 2000 variable genes of scRNA-seq
 
+Please refer to examples of these input files in the folder data.
+
+Please refer to codes in seruat.r to get scRNA-seq input files.
+
 ### Output:
 
 pdcluster.txt: output of clusters of scHi-C data and eigenvectors, columns include cell_id, sample_type, cluster_id, PC1, PC2, PC3, and path stored contact pairs
