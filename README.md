@@ -1,4 +1,4 @@
-# MUDI - Multiomic Data Integration for single cell
+# MUDI - Multiomic Data Integration for single-cell sequencing
 
 ----------------------------------
 MUDI is a python package developed for integration of multiomic data for single cell such as single-cell Hi-C, single-cell RNA-seq, single-cell ATAC-seq, single-cell ChIP-seq, single-cell DNA methylation and so on.
@@ -9,7 +9,7 @@ Current version supports integration of scHi-C and scRNA-seq.
 
 Please cite as follows when you use this tool:
 
-MUDI: Multiomic Data Integration for single cell. (Yufan Zhou. 2023) Github. https://github.com/yufanzhouonline/MUDI
+MUDI: Multiomic Data Integration for single-cell sequencing. (Yufan Zhou. 2023) Github. https://github.com/yufanzhouonline/MUDI
 
 Thank you.
 
