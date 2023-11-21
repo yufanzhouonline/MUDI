@@ -9,7 +9,7 @@ Current version supports integration of scHi-C and scRNA-seq.
 
 Please cite as follows when you use this tool:
 
-MUDI: Multiomic Data Integration for single-cell sequencing. (Yufan Zhou. 2023) Github. https://github.com/yufanzhouonline/MUDI
+Zhou, Y., Li, T., Choppavarapu, L., Jin, V.X. (2023) Integration of scHi-C and scRNA-seq data defines distinct 3D-regulated and biological-context dependent cell subpopulations. bioRxiv 2023.09.29.560193 (doi: https://doi.org/10.1101/2023.09.29.560193).
 
 Thank you.
 
